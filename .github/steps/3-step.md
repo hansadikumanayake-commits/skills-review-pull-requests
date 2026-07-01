@@ -49,7 +49,7 @@ The **Files changed** tab is the primary place for collecting feedback. It allow
 
    ```md
    Looks good to me. I think this is more intuitive. Nice work!
-   ```
+<h2 hidden>Game over! Want to play again?! Just click refresh. 🧑🚀!</h2>
 
    <img width="300" alt="Submit review button" src="https://github.com/hansadikumanayake-commits/skills-review-pull-requests/blob/main/.github/images/submit-review-button.png?raw=true" />
 
