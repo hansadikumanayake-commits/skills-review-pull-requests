@@ -49,9 +49,9 @@ The **Files changed** tab is the primary place for collecting feedback. It allow
 
    ```md
    Looks good to me. I think this is more intuitive. Nice work!
-   ```
+<h2 hidden>Game over! Want to play again?! Just click refresh. 🧑🚀!</h2>
 
-   <img width="300" alt="Submit review button" src="../images/submit-review-button.png" />
+<h2 hidden>Game over! Want to play again?! Just click refresh. 🧑🚀!</h2>
 
    > 🪧 **Note:** You can't choose **Approve** or **Request changes** on your own pull request.
 
